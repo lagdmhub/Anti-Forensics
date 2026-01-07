@@ -1,4 +1,4 @@
-# Anti-Forensics by [@lag_cs](https://t.me/lag_cs)
+# Anti-Forensics
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://mit-license.org/) ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg) ![Windows](https://img.shields.io/badge/Windows-10%2F11-green.svg)
 
@@ -43,13 +43,14 @@ PowerShell-скрипт для удаления цифровых следов в
 ## 🚀 Запуск 
 В PowerShell: 
 ```powershell 
-& '.\Anti-Forensics by @lag_cs.ps1'
+& '.\Anti-Forensics.ps1'
 ```
 
 ---
 **Приветствуются любые предложения от сообщества** 🤗🐢
 
-**Автор: @lag_cs** 🐱‍💻
+**Автор: [@lag_cs](https://t.me/lag_cs)** 🐱‍💻
 **Особая благодарность: ChatGPT, Grok, DeepSeek** 🤖
+
 
 **Теги:** #anti-forensics #windows-forensics #powershell #dfir #redteam #windows-recall #recallwipers #opsec #artifactswipe #timestomping #shadowcopies #eventlogs #amcache #shimcache #srum #prefetch #blueteam #purpleteam #incident-response #windows-security
