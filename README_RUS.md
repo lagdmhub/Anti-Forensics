@@ -50,7 +50,9 @@ PowerShell-скрипт для удаления цифровых следов в
 **Приветствуются любые предложения от сообщества** 🤗🐢
 
 **Автор: [@lag_cs](https://t.me/lag_cs)** 🐱‍💻
+
 **Особая благодарность: ChatGPT, Grok, DeepSeek** 🤖
 
 
 **Теги:** #anti-forensics #windows-forensics #powershell #dfir #redteam #windows-recall #recallwipers #opsec #artifactswipe #timestomping #shadowcopies #eventlogs #amcache #shimcache #srum #prefetch #blueteam #purpleteam #incident-response #windows-security
+
